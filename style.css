@@ -131,9 +131,11 @@ footer {
   }
 }
 .project-links {
-    margin-top: 15px;
+  display: flex;
+  gap: 15px;   /* yaha se gap control hoga */
+  justify-content: center;
+  margin-top: 15px;
 }
-
 .btn-small {
     display: inline-block;
     padding: 8px 14px;
@@ -164,6 +166,12 @@ footer {
 @media (max-width: 600px) {
   header h1 {
     font-size: 1.5rem;
+  }
+}
+@media (max-width: 600px) {
+  .project-links {
+    flex-direction: column;
+    gap: 10px;
   }
 }
 
