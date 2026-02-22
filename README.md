@@ -53,7 +53,8 @@ Sales data analysis dashboard with insights and visualization built in Excel.
 
 ## 📞 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sangammaurya 
+🔗 LinkedIn: https://www.linkedin.com/in/sangammaurya  
+
 💻 GitHub: https://github.com/Sangam200414  
 
 ---
